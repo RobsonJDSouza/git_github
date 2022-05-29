@@ -139,7 +139,7 @@ As Releases do GitHub, que são geradas para cada tag do Git criada em nosso rep
 Comandos
 
 git config --local user.name "Seu nome aqui"
-git config --local user.email "seu@email.aqui"
+'git config --local user.email "seu@email.aqui"'
 git init
 git status (Verifica se o git está enxergando o repositório)
 git add index.html
